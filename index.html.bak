@@ -1,0 +1,212 @@
+<html>
+    <link rel="shortcut icon" type="x-icon" href="images/logo.jpg"
+<head>
+          
+<title> Holy Child Morning Shift </title>  
+</head>
+<body>
+
+<!---header--->
+
+<table border="0" width="100%" cellspacing="0" bgcolor="#673de6">
+<tr><td>
+<table border="0" width="85%" align="center" cellpadding="15">
+<tr>
+<td> <font face="Open Sans" size="6" color="yellow"> <b> Study </b></font></td>
+
+<td width="20%"></td>
+
+</tr>
+</table>
+</td></tr>
+</table>
+
+<!---End header--->
+
+<!---Home---->
+<table>
+<tr><td>
+<table width="85%" border="0" align="center" cellpadding="15px">
+<tr>
+<td> 
+	<h1> <font face="Open Sans" size="7"> Hi, </font></h1>
+	<h1> <font face="Open Sans" size="6"> Welcome </font></h1>
+	<font size="3">This School Is From Play To Collage Sorry But Currently Addmissions Are Closed They Will Be Again Open On January.</font>
+    
+<hr>
+<a href="https://www.youtube.com/channel/UCErOhNbKxlJE8nA27S8wjvg"><button> Subscribe</button> </a>
+
+<a href="https://www.facebook.com/holy.child.16121"><button> Facebook</button> </a>
+
+</td>
+
+<td>
+	<img src="images/study.png" height="600px">
+</td>
+
+</tr>
+</table>
+</td></tr>
+</table>
+<!---End Home---->
+
+<!--- About Us--->
+
+<table width="100%" bgcolor="#fafbff">
+<tr><td>
+<br><br><br><br>
+<table width="85%" border="0" align="center" cellpadding="15px">
+<tr align="center">
+<td colspan="3"> 
+	<font size="6" face="Open sans"> About Us </font> <br>
+	<hr align="center" width="10%">
+	<font size="2" face="Open sans"> Why We Prefer?/Why U Should Come Here? </font> <br>
+  </td>
+</tr>
+<tr align="center">
+<td>
+	<img src="images/punch.png" width="15%"> <br><br>
+	<font size="5"> Hurt/violation </font> <br>
+	<font size="3"> Hurt/violation's Are Taken Very Strictly They Will Be Actioned Immediately Parents Will Be Informed! </font>
+</td>
+<td>
+	<img src="images/open-book.png" width="15%"> <br><br>
+	<font size="5"> Study </font> <br>
+	<font size="3"> Studies Are Taken Very Seriously Because Exams Are Also Taken Seriously They Will Be Comming Very Very Fast! </font>
+</td>
+<td>
+	<img src="images/question-mark.png" width="15%"> <br><br>
+	<font size="5"> Why We Prefer? </font> <br>
+	<font size="3"> This School Is Very Well Known By People And By Eduction So We Prefer! </font>
+</td>
+
+</tr>
+</table>
+<br><br><br><br>
+</td></tr>
+<table>
+
+<!--- End Services--->
+<!--- Skills--->
+
+<table width="100%" bgcolor="#25282f">
+
+<tr>
+<td> <br><br><br><br>
+	<table border="0" width="85%" align="center" cellpadding="15px">
+	<tr align="center"> <td colspan="2"> <font face="Open Sans" size="6" color="#fff"> Ratings </font>   
+	<hr align="center" width="7%">	 </td></tr>
+	<tr>
+	<td> <label> <font size="5" color="#fff"> Events </font></label> <br><progress value="95" max="100">95% </progress> </td>
+	<td> <label> <font size="5" color="#fff"> Sports </font></label> <br><progress value="85" max="100">85% </progress> </td>
+	</tr>
+
+	<tr>
+	<td> <label> <font size="5" color="#fff"> Exams </font></label> <br><progress value="65" max="100">65% </progress></td>
+	<td> <label> <font size="5" color="#fff"> HomeWork </font></label> <br><progress value="50" max="100">50% </progress></td>
+	</tr>
+	</table>
+<br><br><br><br>
+
+</td>
+</tr>
+</table>
+
+<!--- End Skills--->
+
+<!--- Team--->
+<table width="100%">
+<tr><td>
+<br><br><br><br>
+<table border="0" width="85%" align="center" cellpadding="15">
+<tr align="center"> <td colspan="3"> <font color="" size="6"> MEET Our Brothers </font></td>
+</tr>
+<tr align="center"> 
+<td> <img src="images/principal.png" width="30%"> <br> <font size="6"> Br.Toren Joshep Palma </font> <br> <font size="4"> Principal </font></td>
+
+<td> <img src="images/helper.png" width="30%"> <br> <font size="6"> Br.Patrick Halima </font> <br> <font size="4"> Helping Hand </font></td>
+
+<td> <img src="images/teacher.jpg" width="30%"> <br> <font size="6"> Jolly Gomez </font> <br> <font size="4"> Teacher (Head Of Primary Section) </font></td>
+</tr>
+</table> <br><br><br><br>
+
+</td></tr>
+</table>
+
+<!--- End Team--->
+
+<!--- Contact--->
+<form>
+<table width="100%" bgcolor="#673de6">
+<tr><td>
+<br><br><br><br>
+<table border="0" width="30%" align="center" cellpadding="15">
+<tr align="center">
+<td colspan="2"> <font color="" size="6"> Contact Us </font> <br> <hr align="center" width="10%"> </td>
+</tr>
+<tr>
+<td> <font color="#fff">Name : </font> </td>
+<td> <input type="text"> </td>
+</tr>
+
+<tr>
+<td> <font color="#fff">Mobile : </font> </td>
+<td> <input type="number"> </td>
+</tr>
+
+<tr>
+<td> <font color="#fff"> Message : </font> </td>
+<td> <textarea cols="20" rows="4"> </textarea> </td>
+</tr>
+
+<tr align="center">
+<td colspan="2"> <input type="submit">  </td>
+</tr>
+</table><br><br><br><br>
+
+</td></tr>
+</table>
+</form>
+
+<!--- End Contact--->
+
+<!--- Footer--->
+
+<table width="100%">
+<tr><td>
+
+<table border="0" width="85%" align="center" cellpadding="15">
+<tr align="center">
+<td>
+<img src="images/telephone.png" width="25%"> <br>
+<font size="6" >Phone No.</font> <br>
+<font size="5">01821787878</font>
+</td>
+
+<td>
+<img src="images/gmail.png" width="25%"> <br>
+<font size="6" >Email us</font> <br>
+<font size="5" >hpwindows65@gmail.com</font>
+
+</td>
+
+<td>
+<img src="images/map.png" width="25%"> <br>
+<font size="6" >Location</font> <br>
+<font size="5" >Bangladesh</font>
+
+</td>
+</tr>
+
+<tr bgcolor="black" align="center"> 
+<td colspan="3"> <font color="#fff"> Copyright @ 2022 | Joachim Robin Rodrick </font></td>
+</tr>
+</table>
+
+</td></tr>
+</table>
+
+<!--- End Footer--->
+
+</body>
+</html>
